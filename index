@@ -1,0 +1,128 @@
+// let x=prompt("enter the time");
+
+
+
+
+//  console.log(x);
+
+// let x=1;
+// let y=8;
+// let g=9;
+// console.log(x<y && y<g)
+    
+// const x="8";
+// console.log(typeof x)
+
+// let empty1=undefined;
+// let empty2=null;
+// console.log(typeof empty1)
+// let a="hellow";
+// a="hi";
+// console.log(a);
+// let b="world";
+// let c='Hello ${b}!';
+// console.log(c);
+
+
+// let a="hellow";
+// a=prompt("world");
+// console.log(a);
+
+// let a=2;
+// let b=7;
+// b++;
+// console.log(b);
+
+// let res=3+4*2/8;
+// console.log(res);
+
+// let d=34;
+// let e=8;
+// let firstnum=5;
+// let secondtnum=5;
+// ++firstnum;
+// --secondtnum;
+// let total=++firstnum+--secondtnum;
+// console.log(total);
+// let total2=500+100/5+total
+// console.log(total2);
+
+// console.log(34/8);
+
+// let x=10;
+// let res=(x<24)? "delete the message from every one":"delete message from me";
+// let y=prompt("delete data")
+// console.log(res)
+
+
+
+// let a=10;
+// let b=50;
+// let c=30;
+
+// let res=a>b? "greater value":"smaller value";
+// let result=a<b? "greater value":"smaller value";
+// let results=c<a? "greater value":"smaller value";
+// console.log(result)
+// console.log(res)
+// console.log(results)
+
+
+// console.log(10+"5");
+    
+// let x=10;
+// x**=2;
+// console.log(x);
+
+
+// console.log(10/"hellow");
+
+// console.log(10===10);
+
+// console.log(10^5);
+
+// x=20;
+// y=x++;
+// console.log(x,y)
+
+
+// x=30;
+// x++;
+// console.log(x)
+
+
+// let x="admin";
+
+// if(x=="customer"){
+//     console.log("send message")
+// }
+// else if(x="superadmin"){
+//     console.log("ask to admin")
+// }
+// else if(x=="customer"){
+//     console.log("send messages to admin")  
+// }
+// else if(x=="employe"){
+//        console.log("see the messages")
+// }
+
+// else{
+//      console.log("ur not authorised")
+
+
+// let x="400";
+// if(x<=600&&x>=600){
+//   console.log("credit score heigher");
+// }
+// else if(x<=40000&&x>=40000){
+// console.log("annual income")
+// }
+
+
+
+
+
+
+
+
+
